@@ -1,2 +1,1 @@
-# jstimer
-JS timer countdown
+### JS timer countdown
